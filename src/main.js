@@ -59,7 +59,7 @@ var vm=new Vue({
      render:c => c(app),
     // render:function (createElement) {
     //     return createElement(app)
-    //
+    ////////
     // },
     //render函数渲染组件
     ////createElement是一个函数
